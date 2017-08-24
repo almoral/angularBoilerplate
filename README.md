@@ -50,7 +50,7 @@ Run `ng build` to build the project. The build artifacts will be stored in the `
 
 > The path is:
 >
-> BETA > Miamidade > workarea > WA1 > resources > components > {componentName} > js.
+> //s0144035/BETA/main/miamidade/WORKAREA/wa1/resources/components/{componentName}/js
 
 
 
